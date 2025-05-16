@@ -2,7 +2,7 @@
 
 ## Who Am I?
 
-I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore the latest in tech. Whether it's building scalable web apps, experimenting with AI algorithms, or solving real-world problems through code, I'm all about learning by doing. I thrive on collaboration, creativity, and the excitement that comes with tackling new challenges alongside passionate people.
+I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep passion for AI/ML and web development. Committed to continuous learning and eager to contribute to dynamic projects in a collaborative professional environment. I believe in turning challenges into opportunities for growth while creating solutions that make a difference.
 
 ## 🚀 Current Journey
 
