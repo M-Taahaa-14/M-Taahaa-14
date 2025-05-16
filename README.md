@@ -49,7 +49,7 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
   <img src="https://github-readme-stats.vercel.app/api?username=M-Taahaa-14&theme=dark&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Taahaa-141&theme=dark&hide_border=false" alt="Taaha's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Taahaa-14&theme=dark&hide_border=false" alt="Taaha's GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taahaa-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
