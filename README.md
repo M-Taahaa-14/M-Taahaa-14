@@ -46,22 +46,22 @@ I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore t
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&theme=dark&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=default&hide_border=false" alt="Taaha's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=dark&hide_border=false" alt="Taaha's GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
 </p>
 
 ## 🌟 Notable Projects
 <p align="center">
   <a href="https://github.com/M-Taahaa-14/Xplore">
-    <img align="center" src="https://github.com/M-Taahaa-14/Xplore?username=M-Taahaa-14&repo=Xplore" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Taahaa-14&repo=Xplore&theme=dark" />
   </a>
   <a href="https://github.com/M-Taahaa-14/Taaha-Hikes">
-    <img align="center" src="https://github.com/M-Taahaa-14/Taaha-Hikes?username=M-Taahaa-14&repo=Taaha Hikes" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Taahaa-14&repo=Taaha-Hikes&theme=dark" />
   </a>
 </p>
 
