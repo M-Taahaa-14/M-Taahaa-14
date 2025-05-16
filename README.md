@@ -4,12 +4,6 @@
 
 I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep passion for AI/ML and web development. Committed to continuous learning and eager to contribute to dynamic projects in a collaborative professional environment. I believe in turning challenges into opportunities for growth while creating solutions that make a difference.
 
-## 🚀 Current Journey
-
-- Immersed in my BS Computer Science at FAST NUCES Lahore
-- Exploring the frontiers of AI, machine learning, and intelligent systems
-- Actively searching for open-source communities
-
 ## 🛠️ My Toolbox
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
