@@ -4,7 +4,11 @@
 
 I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep passion for AI/ML and web development. Committed to continuous learning and eager to contribute to dynamic projects in a collaborative professional environment. I believe in turning challenges into opportunities for growth while creating solutions that make a difference.
 
-## 🛠️ My Toolbox
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
+[![Email](https://img.shields.io/badge/Email-mr.taaha16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
+
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,7 +23,7 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌱 Currently Exploring
+## 📝 Currently Exploring
 - Advanced AI/ML techniques and their real-world applications
 - Data Science, Analytics, and Big Data tools  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -29,14 +33,6 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-## 🤝 Looking to Collaborate On
-- Interactive web apps
-- AI/ML research or applications
-- Innovative software projects
-
-## 📫 Find Me Here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
-[![Email](https://img.shields.io/badge/Email-mr.taaha16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
 
 ## 📊 My GitHub Stats
 <p align="center">
