@@ -41,7 +41,7 @@ I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore t
 - Innovative software projects
 
 ## 📫 Find Me Here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
 [![Email](https://img.shields.io/badge/Email-mr.taaha16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
 
 ## 📊 My GitHub Stats
