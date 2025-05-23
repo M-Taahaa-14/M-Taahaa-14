@@ -56,7 +56,9 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
   </a>
 </p>
 
-### ⚽ GitHub Contributions Football Field
+
+## ⚽ Fun Fact
+Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy finding creative paths through complex problems—sometimes the best solution is an unexpected dribble past the obvious! Football reminds me that teamwork, vision, and a little bit of flair can change the game—on the field or in code.
 
 <p align="center">
   <img src="assets/football-commits.png" alt="My GitHub Commits Football Field" width="800"/>
@@ -66,21 +68,4 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
   <em>🏟️ My coding journey visualized as a football pitch - every commit a step closer to the goal! ⚽</em>
 </p>
 
-⚽ GitHub Contributions Championship
-<div align="center">
-  <img src="output/github-contribution-football.gif" alt="Animated GitHub Contributions Visualization" width="100%" />
-  <br>
-</div>
-
-Note: This animated contribution graph updates automatically and shows my coding activity as a football championship theme. The ball moves to highlight my most productive coding days!
-
-## ⚽ Fun Fact
-Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy finding creative paths through complex problems—sometimes the best solution is an unexpected dribble past the obvious! Football reminds me that teamwork, vision, and a little bit of flair can change the game—on the field or in code.
-
 Let's connect, collaborate, and make an impact together!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Taahaa-14&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <br>
-  <strong>Let's connect, collaborate, and make an impact together! ⚽💻</strong>
-</div>
