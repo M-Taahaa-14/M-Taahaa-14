@@ -267,7 +267,7 @@ async function generateAnimation() {
         console.log('Creating GIF from frames...');
         
         // For now, save the first frame as PNG
-        fs.writeFileSync('output/github-contribution-football.png', frames[0]);
+        fs.writeFileSync('output/git-contribution-football.png', frames[0]);
         
         // Clean up
         fs.unlinkSync('temp-animation.html');
