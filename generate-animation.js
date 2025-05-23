@@ -325,7 +325,7 @@ async function fetchContributions(username, token) {
 function generateFallbackImage() {
     console.log('Generating fallback image...');
     // Create a simple fallback
-    const fallbackSvg = \`<svg width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
+    const fallbackSvg = `<svg width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
         <rect width="100%" height="100%" fill="#0d1117"/>
         <text x="500" y="200" text-anchor="middle" fill="#00d4aa" font-size="24" font-family="Arial">
             ⚽ GitHub Contribution Animation
@@ -333,7 +333,7 @@ function generateFallbackImage() {
         <text x="500" y="240" text-anchor="middle" fill="#8b949e" font-size="16" font-family="Arial">
             Loading... Check back soon!
         </text>
-    </svg>\`;
+    </svg>`;
     
     fs.writeFileSync('output/github-contribution-football.svg', fallbackSvg);
 }
