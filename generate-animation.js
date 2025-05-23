@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 
 async function generateAnimation() {
     const username = process.env.USERNAME || 'M-Taahaa-14';
-    const token = process.env.GITHUB_TOKEN;
+    const token = process.env.GH_TOKEN;
     
     console.log(`Generating animation for ${username}...`);
     
