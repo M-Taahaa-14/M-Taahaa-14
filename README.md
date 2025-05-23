@@ -69,4 +69,7 @@ Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy 
   <em>🏟️ My coding journey visualized as a football pitch - every commit a step closer to the goal! ⚽</em>
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Taahaa-14&theme=github)
+
+
 Let's connect, collaborate, and make an impact together!
