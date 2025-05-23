@@ -28,7 +28,7 @@ jobs:
           
       - name: Generate contribution animation
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GT_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         run: |
           mkdir -p output
