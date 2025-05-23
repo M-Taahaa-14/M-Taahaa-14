@@ -32,7 +32,7 @@ jobs:
         
     - name: Generate Football Field
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GT_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
       run: python scripts/generate_football.py
       
@@ -44,6 +44,6 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🏆 Update football commits visualization"
+          git commit -m "Update football commits visualization"
           git push
         fi
