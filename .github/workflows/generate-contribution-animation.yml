@@ -1,4 +1,3 @@
-# .github/workflows/generate-contribution-animation.yml
 name: Generate GitHub Contribution Animation
 
 on:
