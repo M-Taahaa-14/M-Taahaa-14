@@ -70,7 +70,6 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
 <div align="center">
   <img src="output/github-contribution-football.gif" alt="Animated GitHub Contributions Visualization" width="100%" />
   <br>
-  <em>🏆 Real-time animated visualization of my coding journey - Updated every 12 hours!</em>
 </div>
 
 Note: This animated contribution graph updates automatically and shows my coding activity as a football championship theme. The ball moves to highlight my most productive coding days!
