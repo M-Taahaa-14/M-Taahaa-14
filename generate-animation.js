@@ -283,44 +283,44 @@ async function generateAnimation() {
 
 async function fetchContributions(username, token) {
     const { Octokit } = require('@octokit/rest');
-    const octokit = new Octokit({ auth: token });
-    
-    try {
-        // Use GraphQL to fetch contribution data
-        const query = `
-            query(\$username: String!) {
-                user(login: \$username) {
-                    contributionsCollection {
-                        contributionCalendar {
-                            weeks {
-                                contributionDays {
-                                    contributionCount
-                                    date
-                                }
-                            }
-                        }
-                    }
+    const { request } = require("@octokit/request");
+
+    const query = `
+      query($username: String!) {
+        user(login: $username) {
+          contributionsCollection {
+            contributionCalendar {
+              weeks {
+                contributionDays {
+                  contributionCount
                 }
+              }
             }
-        `;
-        
-        const result = await octokit.graphql(query, { username });
-        const weeks = result.user.contributionsCollection.contributionCalendar.weeks;
-        
-        const contributions = [];
-        weeks.forEach(week => {
-            week.contributionDays.forEach(day => {
-                contributions.push(day.contributionCount);
-            });
+          }
+        }
+      }
+    `;
+
+    try {
+        const response = await request('POST /graphql', {
+            headers: {
+                authorization: `token ${token}`,
+            },
+            query,
+            variables: { username },
         });
-        
-        return contributions;
+
+        const weeks = response.data.user.contributionsCollection.contributionCalendar.weeks;
+        const days = weeks.flatMap(week => week.contributionDays);
+        const contributionsData = days.map(day => day.contributionCount);
+
+        return contributionsData;
     } catch (error) {
-        console.error('Error fetching contributions:', error);
-        // Return demo data as fallback
-        return Array.from({ length: 371 }, () => Math.floor(Math.random() * 5));
+        console.error("Failed to fetch contributions:", error);
+        return new Array(365).fill(0); // fallback: no contributions
     }
 }
+
 
 function generateFallbackImage() {
     console.log('Generating fallback image...');
