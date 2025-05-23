@@ -1,7 +1,5 @@
 # Hi there, I'm Muhammad Taahaa 👋
 
-## Who Am I?
-
 I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep passion for AI/ML and web development. Committed to continuous learning and eager to contribute to dynamic projects in a collaborative professional environment. I believe in turning challenges into opportunities for growth while creating solutions that make a difference.
 
 ## 🌐 Socials
