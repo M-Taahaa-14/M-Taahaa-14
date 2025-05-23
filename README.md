@@ -45,6 +45,11 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taahaa-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
 </p>
 
+### ⚽ GitHub Contributions (Football Style)
+
+![GitHub Contribution Football](output/github-contribution-football.gif)
+
+
 ## 🌟 Notable Projects
 <p align="center">
   <a href="https://github.com/M-Taahaa-14/Xplore">
