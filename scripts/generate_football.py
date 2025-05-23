@@ -7,7 +7,7 @@ import json
 
 # Configuration
 USERNAME = os.getenv('USERNAME', 'M-Taahaa-14')
-TOKEN = os.getenv('GITHUB_TOKEN')
+TOKEN = os.getenv('GH_TOKEN')
 OUTPUT_DIR = 'assets'
 IMAGE_NAME = 'football-commits.png'
 
