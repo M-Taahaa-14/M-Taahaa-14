@@ -1,11 +1,15 @@
+# .github/workflows/football-commits.yml
 name: Generate Football Commits
 
 on:
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight
   push:
-    branches: [ main ]
+    branches: [ main, master ]  # Support both branch names
   workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write  # Allow the action to write to the repository
 
 jobs:
   generate-football:
@@ -14,6 +18,8 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}
       
     - name: Setup Python
       uses: actions/setup-python@v4
@@ -26,13 +32,18 @@ jobs:
         
     - name: Generate Football Field
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
       run: python scripts/generate_football.py
       
     - name: Commit and push if changed
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🏆 Update football commits visualization" && git push)
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add assets/football-commits.png
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🏆 Update football commits visualization"
+          git push
+        fi
