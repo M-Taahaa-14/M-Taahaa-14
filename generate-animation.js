@@ -1,4 +1,3 @@
-// generate-animation.js
 const fs = require('fs');
 const { execSync } = require('child_process');
 
@@ -8,7 +7,6 @@ async function generateAnimation() {
     
     console.log(`Generating animation for ${username}...`);
     
-    // HTML template for the animation
     const htmlTemplate = `<!DOCTYPE html>
 <html>
 <head>
