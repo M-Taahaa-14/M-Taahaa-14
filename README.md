@@ -45,10 +45,15 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taahaa-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
 </p>
 
-### ⚽ GitHub Contributions 
+### ⚽ GitHub Contributions Football Field
 
-![GitHub Contribution Football](output/github-contribution-football.gif)
+<p align="center">
+  <img src="assets/football-commits.png" alt="My GitHub Commits Football Field" width="800"/>
+</p>
 
+<p align="center">
+  <em>🏟️ My coding journey visualized as a football pitch - every commit a step closer to the goal! ⚽</em>
+</p>
 
 ## 🌟 Notable Projects
 <p align="center">
