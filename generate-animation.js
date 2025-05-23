@@ -302,7 +302,7 @@ async function fetchContributions(username, token) {
                     }
                 }
             }
-        \`;
+        `;
         
         const result = await octokit.graphql(query, { username });
         const weeks = result.user.contributionsCollection.contributionCalendar.weeks;
