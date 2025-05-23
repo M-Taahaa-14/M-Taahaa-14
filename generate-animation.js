@@ -287,7 +287,7 @@ async function fetchContributions(username, token) {
     
     try {
         // Use GraphQL to fetch contribution data
-        const query = \`
+        const query = `
             query(\$username: String!) {
                 user(login: \$username) {
                     contributionsCollection {
