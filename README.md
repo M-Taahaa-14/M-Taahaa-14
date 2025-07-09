@@ -57,17 +57,6 @@ I am currently a Computer Science undergrad at FAST NUCES Lahore with a deep pas
   </a>
 </p>
 
-
-## ⚽ Fun Fact
-Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy finding creative paths through complex problems—sometimes the best solution is an unexpected dribble past the obvious! Football reminds me that teamwork, vision, and a little bit of flair can change the game—on the field or in code.
-
 <p align="center">
-  <img src="assets/football-commits.png" alt="My GitHub Commits Football Field" width="800"/>
-</p>
-
-<p align="center">
-  <em>🏟️ My coding journey visualized as a football pitch - every commit a step closer to the goal! ⚽</em>
-</p>
-
-
 Let's connect, collaborate, and make an impact together!
+</p>
